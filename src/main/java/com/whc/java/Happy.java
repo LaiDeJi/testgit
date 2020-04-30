@@ -6,5 +6,6 @@ package com.whc.java;
 public class Happy {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
+		System.out.println("branch hot_fix");
 	}
 }
